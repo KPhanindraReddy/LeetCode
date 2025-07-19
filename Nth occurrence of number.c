@@ -2,6 +2,7 @@
 Problem Statement:
 Given an array and a number e1, find the Nth occurrence of e1 in the array. If it doesn’t exist, return -1.
 
+
 Sample Input & Output:
 Input:
 7
