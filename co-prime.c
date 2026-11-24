@@ -30,4 +30,4 @@ int main(){
     }
     int p=coprime(arr,n);
     printf("%d",p);
-}
+} 
